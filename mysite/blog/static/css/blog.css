@@ -7,13 +7,13 @@ body {
 	padding-left: 15px;
 }
 
-.page_header {
+.page-header {
 	background-color: #ff9400;
 	margin-top: 0;
 	padding: 20px 20px 20px 40px;
 }
 
-.page_header h1, .page_header h1 a, .page_header h1 a:visited, .page_header h1 a:active {
+.page-header h1, .page_header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
 	color: #ffffff;
 	font-size: 36pt;
 	text-decoration: none;
